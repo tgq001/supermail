@@ -1,0 +1,64 @@
+@charset "utf-8";
+@font-face {
+  font-family: "iconfont";
+  /* Project id 2943241 */
+  src: url('../icon/iconfont.woff2?t=1637074124123') format('woff2'), url('../icon/iconfont.woff?t=1637074124123') format('woff'), url('../icon/iconfont.ttf?t=1637074124123') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 30px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  max-width: 540px;
+  margin: 0 auto;
+  padding-top: 44px;
+}
+
+
+/* .slide {
+  width: 100%;
+   flex-shrink: 0; 
+}
+
+.slide a {
+  display: block;
+  width: 100%;
+}
+
+.slide a img {
+  width: 100%;
+} */
+
+
+/* #tab-bar {
+  display: flex;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  font-size: 12px;
+  background: #f6f6f6;
+  box-shadow: 0px -1px 1px rgba(0, 0, 0, 1);
+}
+
+.tab-bar-item {
+  flex: 1;
+  height: 49px;
+  border-right: 1px solid #000;
+  line-height: 49px;
+  text-align: center;
+}
+
+.tab-bar-item div {
+  display: flex;
+  flex-direction: column;
+}
+
+.tab-bar-item div span {
+  flex: 1;
+}  */
